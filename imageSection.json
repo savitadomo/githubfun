@@ -1,5 +1,6 @@
 {
   "images": [],
   "authorName": "Test sample from git branch",
+  "test": "data",
   "validImages": []
 }
